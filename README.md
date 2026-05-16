@@ -48,10 +48,11 @@ This system allows safe and modular interfacing between low-voltage robot output
 ## Media
 
 ### PCB Render
-![PCB Render](hardware/3d_render.png)
+![PCB](hardware/IMG_5968.jpg)
+![PCB](hardware/IMG_598980.jpg)
 
 ### Schematic
-![Schematic](hardware/schematics.png)
+![Schematic](hardware/Schematic.pdf)
 
 ### Assembled Board
 ![Board](media/assembled_board.jpg)
